@@ -13,7 +13,7 @@
 
 -> A critério do programador escolher como aumentar a dificuldade:
    - Selecionando o nível
-   - Começando no Nível 1 e quando se ganha passa para o nível 2
+   - Começando no Nível 1 e quando se ganha passa para o nível 2(escolhido pelo grupo)
      
 -> Player X PC (controle da raquete via mouse ou teclado)
 
